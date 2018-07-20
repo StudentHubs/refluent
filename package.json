@@ -24,7 +24,7 @@
     "typescript": "^2.9.2"
   },
   "dependencies": {
-    "keys-to-object": "^0.2.0",
+    "keys-to-object": "https://github.com/StudentHubs/keys-to-object",
     "memize": "^1.0.5"
   }
 }
